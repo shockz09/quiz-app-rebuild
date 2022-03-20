@@ -1,4 +1,4 @@
-# QUIZ APP rebuild with improvements
+# QUIZ APP rebuild with improvements (many)
 
 ### So this is the rebuild of the hackathon project quiz app which i made before , that one used too much dom manipulation and stuff , but this rebuild isn't like that , it used react hooks 🎉
 
